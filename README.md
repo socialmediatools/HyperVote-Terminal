@@ -21,13 +21,12 @@ The most important thing that our script support two-factor authentification, ca
 Our script gets followers of users and voting all their stories. That’s simple and clear.
 
 ### Features
-
--Detailed digital tutorial about installation and setup
--Real-time emulation of an Android App in the back-end
--Count of voting stories per day depends on followers quality of targeted account
--You can set multiple targets
--Unlimited accounts usage
--Proxy support
--Two-factor authentification support
--Bypassing of verification challenge
--You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
+- Detailed digital tutorial about installation and setup
+- Real-time emulation of an Android App in the back-end
+- Count of voting stories per day depends on followers quality of targeted account
+- You can set multiple targets
+- Unlimited accounts usage
+- Proxy support
+- Two-factor authentification support
+- Bypassing of verification challenge
+- You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
