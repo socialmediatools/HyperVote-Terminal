@@ -20,7 +20,8 @@ The most important thing that our script support two-factor authentification, ca
 ### How did it work?
 Our script gets followers of users and voting all their stories. That’s simple and clear.
 
-# Features
+### Features
+
 -Detailed digital tutorial about installation and setup
 -Real-time emulation of an Android App in the back-end
 -Count of voting stories per day depends on followers quality of targeted account
