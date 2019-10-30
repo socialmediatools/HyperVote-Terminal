@@ -8,7 +8,7 @@ This is a standalone script for usage in Terminal/Console in Windows/Mac/Linux O
 
 You should know that all downloadable products non-returnable.
 
-## Description
+### Description
 HyperVote Terminal – it’s a console-based script created for masslooking (mass viewing) stories. All you need is provide some required parameters, set targets and start a script.
 
 We created a special detailed digital guide about installation, setup, and usage. You won’t be complicated.
@@ -17,10 +17,10 @@ The most important thing that our script support two-factor authentification, ca
 
 ![](https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/Hypervote_Terminal.PNG)
 
-## How did it work?
+### How did it work?
 Our script gets followers of users and voting all their stories. That’s simple and clear.
 
-## Features
+### Features
 -Detailed digital tutorial about installation and setup
 -Real-time emulation of an Android App in the back-end
 -Count of voting stories per day depends on followers quality of targeted account
