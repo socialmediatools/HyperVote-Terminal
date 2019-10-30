@@ -1,5 +1,5 @@
-<h2>HyperVote Terminal v1.3 Released</h2>
-HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) stories. All you need is to provide some required parameters, set targets and start a script.
+<h1>HyperVote Terminal v1.3 Released</h1>
+<b>HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) stories. All you need is to provide some required parameters, set targets and start a script.</b>
 
 <h2>IMPORTANT INFORMATION: THIS IS NOT A MODULE FOR NEXTPOST!</h2>
 Developers are not responsible for any issues related to IG accounts. We can’t guarantee lifetime workability and safety, because IG can change or update something in API.
