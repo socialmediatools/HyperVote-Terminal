@@ -1,4 +1,4 @@
-# HyperVote Terminal v1.3 Released
+# HyperVote Terminal v1.7.3 Released
 HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) and masslooking stories.
 All you need is to provide some required parameters, set targets and start a script. 
 NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
@@ -19,3 +19,19 @@ We created a special detailed digital guide about installation, setup, and usage
 The most important thing that our script support two-factor authentification, can bypass of verification challenge, use multiple targets and support proxy.
 
 ![](https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/Hypervote_Terminal.PNG)
+
+### How did it work?
+Our script gets followers of users and voting all their stories. That’s simple and clear.
+
+### Features
+- Detailed digital tutorial about installation and setup
+- Real-time emulation of an Android App in the back-end
+- Count of voting stories per day depends on followers quality of targeted account
+- You can set multiple targets
+- Unlimited accounts usage
+- Proxy support
+- Two-factor authentification support
+- Bypassing of verification challenge
+- You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
+
+### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
