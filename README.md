@@ -9,7 +9,7 @@ NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
 
 This is a standalone script for usage in Terminal/Console in Windows/Mac/Linux OS systems. You need a PC/Laptop or VPS server for running this script.
 
-### You should know that all downloadable products non-returnable.
+#### You should know that all downloadable products non-returnable.
 
 ## Description
 HyperVote Terminal – it’s a console-based script created for masslooking (mass viewing) stories. All you need is provide some required parameters, set targets and start a script.
