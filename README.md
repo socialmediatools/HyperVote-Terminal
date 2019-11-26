@@ -30,3 +30,4 @@ Our script gets followers of users and voting all their stories. That’s simple
 - You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
 
 #### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
+#### Regular updates
