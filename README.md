@@ -4,8 +4,6 @@ All you need is to provide some required parameters, set targets and start a scr
 NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
 
 ### IMPORTANT INFORMATION:
-- We can’t guarantee lifetime workability and safety, because IG can change or update something in api.
-
 This is a standalone script for usage in Terminal/Console in Windows/Mac/Linux OS systems. You need a PC/Laptop or VPS server for running this script.
 
 ## Description
@@ -31,4 +29,4 @@ Our script gets followers of users and voting all their stories. That’s simple
 - Bypassing of verification challenge
 - You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
 
-### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
+#### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
