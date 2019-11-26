@@ -13,7 +13,7 @@ We created a special detailed digital guide about installation, setup, and usage
 
 The most important thing that our script support two-factor authentification, can bypass of verification challenge, use multiple targets and support proxy.
 
-![](https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/Hypervote_Terminal.PNG)
+![](https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/hypervote_image.png)
 
 ### How did it work?
 Our script gets followers of users and voting all their stories. That’s simple and clear.
