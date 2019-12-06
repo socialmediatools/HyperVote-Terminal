@@ -1,4 +1,4 @@
-# HyperVote Terminal v1.7.6 Released
+# HyperVote Terminal v1.8.1 Released
 HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) and masslooking stories.
 All you need is to provide some required parameters, set targets and start a script. 
 NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
@@ -29,6 +29,6 @@ Our script gets followers of users and voting all their stories. That’s simple
 - Bypassing of verification challenge
 - You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
 
-#### Last Update: November 29, 2019
+#### Last Update: Dec 06, 2019
 #### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
 
