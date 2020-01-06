@@ -29,3 +29,6 @@ Our script gets followers of users and voting all their stories. That’s simple
 #### Last Update: Jan 6, 2020
 #### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
 
+## License
+	☑ This project is licensed under MIT License 2017-2019. https://opensource.org/licenses/MIT.
+
