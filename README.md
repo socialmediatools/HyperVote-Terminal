@@ -1,5 +1,6 @@
 # HyperVote Terminal v2.5 Released
-HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) and masslooking stories. All you need is to provide some required parameters, set targets and start a script. NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
+HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) and masslooking stories. All you need is to provide some required parameters, set targets and start a script. 
+NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
 
 This is a standalone script for usage in Terminal/Console in Windows/Mac/Linux OS systems. You need a PC/Laptop or VPS server for running this script.
 
