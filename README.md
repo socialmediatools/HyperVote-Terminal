@@ -26,7 +26,7 @@ Our script gets followers of users and voting all their stories. That’s simple
 - Bypassing of verification challenge
 - You can run this script via Terminal/Console in Windows/Mac/Linux or on your own server
 
-#### Last Update: Jan 6, 2020
+#### Last Update: Jan 13, 2020
 #### BUY NOW: https://socialmediatools.eu/downloads/hypervote-terminal/
 
 ## License
