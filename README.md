@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/terminal-icon.png" width=75 align=left> <h1>HyperVote Terminal v2.5 Released</h1>
+<img src="https://raw.githubusercontent.com/socialmediatools/HyperVote-Terminal/master/terminal-icon.png" width=75 align=left> <h1>HyperVote Terminal v2.6 Released</h1>
 <br>
 HyperVote Terminal – it’s a console-based script created for massvoting (mass poll voting) and masslooking stories. All you need is to provide some required parameters, set targets and start a script. 
 NEW VERSION HAVE A MASS STORIES LOOKING FEATURES.
